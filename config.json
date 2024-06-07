@@ -1,5 +1,5 @@
 {
-    "org_url": "",
-    "token": "",
-    "factor_profile_id": ""
+    "org_url": "https://org-url.okta.com/",
+    "token": "api-token",
+    "factor_profile_id": "authenticator-id"
 }
